@@ -1,4 +1,4 @@
-# OpenDeclic : :link: Office de tourisme de la ville Toulouse
+# OpenDeclic : [:link: Office de tourisme de la ville de Strasbourg](https://projetopc-ofstrasbourg.000webhostapp.com/)
 #### Projet OpenClassrooms du parcours 'Open Declic : Développeur Web Junior' : Créez un site en personnalisant un thème WordPress.
 
 ## Competences evolues :
@@ -7,5 +7,6 @@
 - Assurer la cohérence graphique du site.
 - Adapter l'affichage en fonction de la taille de l'écran.
 - Appliquer les principes de SEO dans le code HTML.
+- Creer un thème enfant.
 
-:black_nib: *#HTML #CSS #Responsives Web design #WORDPRESS*
+:black_nib: *#HTML #CSS #WORDPRESS #WP-THEME #WP-PULGINS*
