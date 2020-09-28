@@ -1,4 +1,4 @@
-# OpenDeclic : :link: Office-de-tourisme-Toulouse
+# OpenDeclic : :link: Office de tourisme de la ville Toulouse
 #### Projet OpenClassrooms du parcours 'Open Declic Développeur Web Junior' : Créez un site en personnalisant un thème WordPress.
 
 ## Competences evolues :
